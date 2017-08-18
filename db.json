@@ -1,0 +1,111 @@
+{
+  "contactPersons": [
+    {
+      "partner": "0000250204",
+      "id": "0",
+      "perno": "00000000",
+      "contactTyp": "KA",
+      "nameFirst": "Max",
+      "nameLast ": "Mustermann",
+      "street": "Musterstraße",
+      "houseNo": "58",
+      "postlCode": "133733",
+      "city": "Musterstadt",
+      "country ": "DE",
+      "telephone": "0123456789",
+      "mobilePhone": "9876543210",
+      "fax": "XXX",
+      "eMail": "a@b.com"
+    },
+    {
+      "partner": "0000250204",
+      "id": "0",
+      "perno": "00000000",
+      "contactTyp": "KA",
+      "nameFirst": "Max",
+      "nameLast ": "Mustermann 2",
+      "street": "Musterstraße 2",
+      "houseNo": "58",
+      "postlCode": "133733",
+      "city": "Musterstadt",
+      "country ": "DE",
+      "telephone": "0123456789",
+      "mobilePhone": "9876543210",
+      "fax": "XXX",
+      "eMail": "a@b.com"
+    },
+    {
+      "partner": "0000250204",
+      "id": "0",
+      "perno": "00000000",
+      "contactTyp": "KA",
+      "nameFirst": "Max",
+      "nameLast ": "Mustermann 3",
+      "street": "Musterstraße 3",
+      "houseNo": "58",
+      "postlCode": "133733",
+      "city": "Musterstadt",
+      "country ": "DE",
+      "telephone": "0123456789",
+      "mobilePhone": "9876543210",
+      "fax": "XXX",
+      "eMail": "a@b.com"
+    },
+    {
+      "partner": "0000250204",
+      "id": "1",
+      "perno": "00000000",
+      "contactTyp": "KA",
+      "nameFirst": "Max",
+      "nameLast ": "Mustermann 4",
+      "street": "Musterstraße 4",
+      "houseNo": "58",
+      "postlCode": "133733",
+      "city": "Musterstadt",
+      "country ": "DE",
+      "telephone": "0123456789",
+      "mobilePhone": "9876543210",
+      "fax": "XXX",
+      "eMail": "a@b.com"
+    },
+    {
+      "partner": "0000250204",
+      "id": "1",
+      "perno": "00000000",
+      "contactTyp": "KA",
+      "nameFirst": "Max",
+      "nameLast ": "Mustermann 5",
+      "street": "Musterstraße 5",
+      "houseNo": "58",
+      "postlCode": "133733",
+      "city": "Musterstadt",
+      "country ": "DE",
+      "telephone": "0123456789",
+      "mobilePhone": "9876543210",
+      "fax": "XXX",
+      "eMail": "a@b.com"
+    }
+  ],
+  "SalesAreas": [
+    {
+      "country": "DE",
+      "id": "0",
+      "area": "A"
+    },
+    {
+      "country": "DE",
+      "id": "0",
+      "area": "A"
+    },
+    {
+      "country": "DE",
+      "id": "1",
+      "area": "B"
+    },
+    {
+      "country": "DE",
+      "id": "2",
+      "area": "C"
+    }
+  ]
+}
